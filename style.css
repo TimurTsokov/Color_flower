@@ -11,7 +11,8 @@
     overflow: hidden;
     z-index: 10;
 }
-.qwerty{
+
+.qwerty {
     width: 10px;
     height: 400px;
     background: #00ff00;
@@ -23,6 +24,7 @@
     overflow: hidden;
     z-index: 1;
 }
+
 .flower div {
     display: inline-block;
     width: 50%;
@@ -30,7 +32,6 @@
     /*border-radius: 50%;*/
     /*outline: 1px solid #0df0df;*/
 }
-
 
 .flower div:nth-child(1) {
     background: rebeccapurple;
